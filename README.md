@@ -8,7 +8,7 @@ index2.php で物語を作成し、write2.php で保存します。その後、r
 (学長が紹介してくださったサイトにインスピレーションを得ました）
 
 ③DEMO
-[(https://gsdeploy.sakura.ne.jp/php01/index2.html
+[(https://gsdeploy.sakura.ne.jp/php01/index2.php
 )
 
 ④作ったアプリケーション用のIDまたはPasswordがある場合
